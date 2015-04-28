@@ -8,5 +8,5 @@ void main()
 	printf("What is your name?");
 	scanf("%s",name);
 
-
+    }
 }
